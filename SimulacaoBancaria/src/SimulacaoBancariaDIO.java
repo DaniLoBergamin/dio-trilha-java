@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DesafioVersaoDIO {
+public class SimulacaoBancariaDIO {
     
     public static void main(String[] args) {
         @SuppressWarnings("resource")
